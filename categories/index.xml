@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 龍説</title>
+    <link>http://primexyz.github.io/categories/</link>
+    <description>Recent content in Categories on 龍説</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    
+	<atom:link href="http://primexyz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notes</title>
+      <link>http://primexyz.github.io/categories/notes/</link>
+      <pubDate>Wed, 31 Oct 2018 18:51:43 +0800</pubDate>
+      
+      <guid>http://primexyz.github.io/categories/notes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

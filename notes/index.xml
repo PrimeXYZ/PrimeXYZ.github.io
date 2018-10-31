@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on 龍説</title>
+    <link>http://primexyz.github.io/notes/</link>
+    <description>Recent content in Notes on 龍説</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Wed, 31 Oct 2018 18:51:43 +0800</lastBuildDate>
+    
+	<atom:link href="http://primexyz.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>你好，世界</title>
+      <link>http://primexyz.github.io/notes/hello-world/</link>
+      <pubDate>Wed, 31 Oct 2018 18:51:43 +0800</pubDate>
+      
+      <guid>http://primexyz.github.io/notes/hello-world/</guid>
+      <description> 美麗杭州，綠色出行。歡迎您乘坐開往人生方向的一三一四路公交車，請您在乘坐過程中支持並配合司機的工作，謝謝！Welcome to take Bus 1314 to RENSHENG. Please make sure you are on the right bus.
+改編自杭州公交始發站提示廣播。
+附錄：杭州公交其他相關廣播（部分）以淨寺（雷峯塔）站爲例
+出發 車輛起步請拉好扶手，
+ 請給有需要的乘客讓個座。 請把博愛專座留給有需要的乘客。  下一站，淨寺、雷峯塔，下車的乘客請提前做好準備。The next stop is JINGSI Temple, LEIFENG Pagoda. Please get ready before hand.
+到達  無 京杭大運河杭州景區提醒您： 坐車沒零錢，刷支付寶，支付寶提醒您： 坐車忘帶卡，刷支付寶，支付寶提醒您： 坐公交選銀聯，低至一分錢，銀聯提醒您1：  淨寺、雷峯塔到了，請攜帶好隨身物品，開門時請注意安全。淨寺、雷峯塔到了。We are at JINGSI Temple, LEIFENG Pagoda. Please mind your step when getting off.
+ 老版本爲：做公交選銀聯，手機 Pay 一分錢，IC 卡減一元，詳詢銀聯客服，銀聯提醒您。 [return]   </description>
+    </item>
+    
+  </channel>
+</rss>
