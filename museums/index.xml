@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>主頁 on 龍説</title>
-    <link>http://primexyz.github.io/</link>
-    <description>Recent content in 主頁 on 龍説</description>
+    <title>Museums on 龍説</title>
+    <link>http://primexyz.github.io/museums/</link>
+    <description>Recent content in Museums on 龍説</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Wed, 31 Oct 2018 19:13:48 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 07:15:55 +0800</lastBuildDate>
     
-	<atom:link href="http://primexyz.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://primexyz.github.io/museums/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -29,21 +29,6 @@
 大家都說，這杯子和我們用的玻璃杯實在是太相似了，一定是某位時間旅行者一不小心把自己的東西遺忘在了兩千年前。當然，這衹是個善意的玩笑，畢竟我們的祖先在當時的確有能力打造這樣一件器物。不過有時候，我還是會半開玩笑地想，說不定這個杯子是一個穿越者設計的呢，天知道。
 當然，杭博的好東西遠不止這一件。作爲杭州這樣一個大城的博物館，不管是展館佈置還是藏品陣容都沒得說，如果有興趣，不妨親自去體驗一下。一個小建議：南館的展廳是按時間順序排佈的，北館則是基於不同的主題劃分區域，如果參觀時先南後北，可能效果會更好一些。不過，有一點我必須吐槽，某些展板的豎排文段，尤其是在介紹編年資料的時候，經常出現自左向右的問題，按理說作爲中國人，我們閱讀豎排文本的習慣天生就該是自右向左的，這是我們骨子裏的民族傳承，反過來會讓人不太舒服。
  截至寫作時，即西元二零一八年十一月一日 [return]   </description>
-    </item>
-    
-    <item>
-      <title>你好，世界</title>
-      <link>http://primexyz.github.io/notes/hello-world/</link>
-      <pubDate>Wed, 31 Oct 2018 18:51:43 +0800</pubDate>
-      
-      <guid>http://primexyz.github.io/notes/hello-world/</guid>
-      <description> 美麗杭州，綠色出行。歡迎您乘坐開往人生方向的一三一四路公交車，請您在乘坐過程中支持並配合司機的工作，謝謝！Welcome to take Bus 1314 to RENSHENG. Please make sure you are on the right bus.
-改編自杭州公交始發站提示廣播。
-附錄：杭州公交其他相關廣播（部分）以淨寺（雷峯塔）站爲例
-出發 車輛起步請拉好扶手，
- 請給有需要的乘客讓個座。 請把博愛專座留給有需要的乘客。  下一站，淨寺、雷峯塔，下車的乘客請提前做好準備。The next stop is JINGSI Temple, LEIFENG Pagoda. Please get ready before hand.
-到達  無 京杭大運河杭州景區提醒您： 坐車沒零錢，刷支付寶，支付寶提醒您： 坐車忘帶卡，刷支付寶，支付寶提醒您： 坐公交選銀聯，低至一分錢，銀聯提醒您1：  淨寺、雷峯塔到了，請攜帶好隨身物品，開門時請注意安全。淨寺、雷峯塔到了。We are at JINGSI Temple, LEIFENG Pagoda. Please mind your step when getting off.
- 老版本爲：做公交選銀聯，手機 Pay 一分錢，IC 卡減一元，詳詢銀聯客服，銀聯提醒您。 [return]   </description>
     </item>
     
   </channel>

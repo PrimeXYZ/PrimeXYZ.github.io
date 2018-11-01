@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://primexyz.github.io/museums/hangzhou/</loc>
+    <lastmod>2018-11-01T07:15:55+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://primexyz.github.io/</loc>
     <lastmod>2018-10-31T19:13:48+08:00</lastmod>
   </url>
@@ -14,6 +19,30 @@
   
   <url>
     <loc>http://primexyz.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://primexyz.github.io/tags/hangzhou/</loc>
+    <lastmod>2018-11-01T07:15:55+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://primexyz.github.io/museums/</loc>
+    <lastmod>2018-11-01T07:15:55+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://primexyz.github.io/categories/museums/</loc>
+    <lastmod>2018-11-01T07:15:55+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://primexyz.github.io/tags/national/</loc>
+    <lastmod>2018-11-01T07:15:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -31,6 +60,7 @@
   
   <url>
     <loc>http://primexyz.github.io/tags/</loc>
+    <lastmod>2018-11-01T07:15:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   
